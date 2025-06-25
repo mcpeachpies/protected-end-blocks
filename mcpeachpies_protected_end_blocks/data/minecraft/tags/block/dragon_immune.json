@@ -113,12 +113,13 @@
     "minecraft:birch_hanging_sign",
     "minecraft:jungle_hanging_sign",
     "minecraft:acacia_hanging_sign",
-    "minecraft:dark_oak_hanging_ign",
+    "minecraft:dark_oak_hanging_sign",
     "minecraft:crimson_hanging_sign",
     "minecraft:warped_hanging_sign",
     "minecraft:cherry_hanging_sign",
     "minecraft:pale_oak_hanging_sign",
 
-    "minecraft:heavy_core"
+    "minecraft:heavy_core",
+    "minecraft:dried_ghast"
   ]
 }
